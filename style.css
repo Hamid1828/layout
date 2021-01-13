@@ -1,0 +1,93 @@
+* {
+  list-style: none;
+  background-color: white;
+}
+#aside ul li {
+  margin: 10px;
+}
+.logo-word {
+  color: white;
+}
+.logo .logo-word {
+  display: inline;
+}
+#section {
+  border: solid 1px;
+  border-color: black;
+}
+#section aside {
+  float: left;
+}
+.laptop {
+  width: 500px;
+}
+.btn-active {
+  color: rgb(84, 221, 84);
+  background-color: rgb(167, 163, 190);
+  width: 200px;
+  height: 25px;
+  border: hidden;
+  border-radius: 20px;
+}
+.active-green {
+  color: rgb(124, 240, 124);
+}
+.new-attendance {
+  color: white;
+  background-color: rgb(84, 221, 84);
+  width: 150px;
+  height: 40px;
+  border: hidden;
+  border-radius: 10px;
+}
+.typography li {
+  text-align: center;
+}
+.students-list p {
+  float: left;
+  padding: 35px;
+}
+.brooklyn p {
+  float: left;
+  padding: 25px;
+}
+.brooklyn {
+  margin: 0;
+}
+.student-nav a {
+  float: left;
+  padding: 40px;
+  width: 100px;
+}
+#aside-two {
+  clear: none;
+  width: 40%;
+  border: solid 1px black;
+  border-radius: 20px;
+}
+#aside {
+  clear: left;
+  background: rgb(21, 21, 37);
+  width: 15%;
+  border: black 1px solid;
+  border-radius: 20px;
+}
+#aside-three {
+  clear: right;
+  width: calc(100% - 57%);
+  border: 1px solid;
+  border-color: black;
+  border-radius: 20px;
+}
+.Titus li {
+  display: inline-block;
+}
+.student-number li {
+  display: inline-block;
+}
+.student-price li {
+  display: inline-block;
+}
+.students-number ul {
+  display: inline-block;
+}
